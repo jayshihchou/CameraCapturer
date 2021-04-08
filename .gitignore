@@ -1,0 +1,14 @@
+/.vs
+/Captured
+/Library
+/Logs
+/obj
+/UnityPackageManager
+/ScreenCapturer.sln
+/ScreenCapturer.csproj
+/ScreenCapturer.Editor.csproj
+/CameraCapturer.sln
+/Assembly-CSharp.csproj
+/.vscode
+/Packages
+/ProjectSettings
